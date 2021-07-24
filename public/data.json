@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "heading": "Card 1 - Heading",
+      "subheading": "Card 1 - Subheading",
+      "cardName": "first"
+    },
+    {
+      "heading": "Card 2 - Heading",
+      "subheading": "Card 2 - Subheading",
+      "cardName": "second"
+    },
+    {
+      "heading": "Card 3 - Heading",
+      "subheading": "Card 3 - Subheading",
+      "cardName": "third"
+    }
+  ]
+}
